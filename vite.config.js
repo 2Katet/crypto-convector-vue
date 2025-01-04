@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/crypto-converter/', // Замени на название твоего репозитория
+  base: '/crypto-convector-vue/', // Замени на название твоего репозитория
   plugins: [
     vue(),
     vueDevTools(),
